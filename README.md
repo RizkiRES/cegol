@@ -1,0 +1,2 @@
+# cegol
+project Sistem Operasi
